@@ -8,7 +8,8 @@
 🌷 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
 💭 Currently learning about Artificial Intelligence <br/>
 
+## GitHub Stats & Streaks 🔥
 <!-- GitHub stats from https://github.com/anuraghazra /github-readme-stats -->
-[![Dovalina's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dovaicasia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Dovalina’s GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dovaicasia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dovalina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovaicasia&theme=radical)](https://git.io/streak-stats)
+[![Dovalina’s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovaicasia&theme=radical)](https://git.io/streak-stats)
