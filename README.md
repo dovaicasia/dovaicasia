@@ -9,7 +9,7 @@
 ### ✨ It’s Me!
 I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data-driven technologies work and how they can be applied to solve real-world problems. 
 
-### 🎀 Current Focus
+### 🎨 Current Focus
 - Improving Data Science & Analytics Skills. 📈
 - Learning more about AI and how to apply it in simple and meaningful ways. 🤖
 
@@ -23,7 +23,7 @@ I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 💖 Coding Statistics
+### 📊 Coding Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
 
 ### 💌 Let’s Connect
