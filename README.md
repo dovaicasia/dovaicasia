@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello, Welcome to My GitHub 👋❕
-## 📍 I’m from South Jakarta, Jakarta, Indonesia
+## I’m from South Jakarta, Jakarta, Indonesia 🇮🇩
 </div>
 
 ### 🌸 Introduce
@@ -9,11 +9,11 @@
 - 📒 I am passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
-- 📈 Improving Data Science & Analytics Skills. 
+- 📊 Improving Data Science & Analytics Skills. 
 - 🤖 Learning more about AI and how to apply it in simple and meaningful ways. 
 
 ### ☁️ My Goals
-- 📊 Become a skilled **Data Scientist/Data Analyst/AI Engineer.** 
+- 🥇 Become a skilled **Data Scientist/Data Analyst/AI Engineer.** 
 - 🌷 Making data more understandable and useful for everyone. 
 
 ### 🍀 Tools & Technologies
