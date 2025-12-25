@@ -2,7 +2,7 @@
 
 ## Hi! I’m Dovalina Icasia 👋💖
 
-📊 Data Enthusiast sharing about my journey and learnings in tech <br/>
+📊 Interest to Data Science, Data Analytics, and AI <br/>
 🎓 Studied [Informatics Engineering](https://univpancasila.ac.id/) at the Universitas Pancasila, Indonesia <br/>
 🎨 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
 🌷 #WomenInTech <br/>
