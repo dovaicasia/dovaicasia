@@ -1,7 +1,8 @@
 <div align="center">
   
 # Hello, I’m Dova 👋❕
-## Welcome to my GitHub! I’m from South Jakarta, Jakarta, Indonesia
+## Welcome to my GitHub! 
+## I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
 ### 🌸 Introduce
@@ -12,7 +13,7 @@ I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. 
 - 🤖 Learning more about AI and how to apply it in simple and meaningful ways. 
 
 ### ☁️ My Goals
-- 📊 Becoming a **Data Scientist/Data Analyst/AI Engineer.** 
+- 📊 Become a skilled **Data Scientist/Data Analyst/AI Engineer.** 
 - 🌷 Making data more understandable and useful for everyone. 
 
 ### 🍀 Tools & Technologies
