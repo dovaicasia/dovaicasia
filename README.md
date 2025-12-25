@@ -2,10 +2,10 @@
 
 ## Hi! I’m Dovalina Icasia 👋💖
 
-📊 Interest to Data Science, Data Analytics, and AI <br/>
-🎓 Studied [Informatics Engineering](https://univpancasila.ac.id/) at the Universitas Pancasila, Indonesia <br/>
-🎨 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
-🌷 #WomenInTech <br/>
+🏡 South Jakarta, Jakarta, Indonesia.
+📊 Interest to Data Science, Data Analytics, and AI. <br/>
+🎓 Studied [Informatics Engineering](https://univpancasila.ac.id/) at the Universitas Pancasila, Indonesia. <br/>
+🌷 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
 💭 Currently learning about Artificial Intelligence <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra /github-readme-stats -->
