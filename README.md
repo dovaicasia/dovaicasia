@@ -5,7 +5,7 @@
 🏡 South Jakarta, Jakarta, Indonesia. <br/>
 📊 Interest to Data Science, Data Analytics, and AI. <br/>
 🎓 Studied [Informatics Engineering](https://univpancasila.ac.id/) at the Universitas Pancasila, Indonesia. <br/>
-🌷 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
+🌷 Making videos about IT, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
 💭 Currently learning about Artificial Intelligence <br/>
 
 ## GitHub Stats & Streaks 🔥
