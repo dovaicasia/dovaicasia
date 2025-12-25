@@ -1,11 +1,12 @@
 <div align="center">
   
-# Hello, Welcome to my GitHub 👋❕
+# Hello, Welcome to My GitHub 👋❕
 ## I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
 ### 🌸 Introduce
-I’m Dovalina Icasia an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
+- 🎓 I’m Dovalina Icasia an **Informatics Engineering** Student at **Universitas Pancasila.**
+- 📒 I am passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
 - 📈 Improving Data Science & Analytics Skills. 
