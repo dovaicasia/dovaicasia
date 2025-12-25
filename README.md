@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello, Welcome to My GitHub 👋❕
-## I’m from South Jakarta, Jakarta, Indonesia
+## 📍 I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
 ### 🌸 Introduce
