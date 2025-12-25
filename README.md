@@ -1,13 +1,13 @@
 <div align="center">
   
 # Hi! My Name is Dovalina Icasia 👋💖
-**Welcome to my GitHub! I’m from South Jakarta, Jakarta, Indonesia.**
+**Welcome to my GitHub! 📍 I’m from South Jakarta, Jakarta, Indonesia.**
 </div>
 
 <br/>
 
 ### ✨ It’s Me!
-I’m an Informatics Engineering **student** at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data-driven technologies work and how they can be applied to solve **real-world** problems. 
+I’m an Informatics **Engineering Student** at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data-driven technologies work and how they can be applied to solve real-world problems. 
 
 ### 🎀 Current Focus
 - Improving Data Science & Analytics Skills. 📈
@@ -15,7 +15,7 @@ I’m an Informatics Engineering **student** at **Universitas Pancasila** 🎓. 
 
 ### ☁️ My Goals
 - Becoming a **Data Scientist / Data Analyst / AI Engineer.** 📊
-- **Making** data more understandable and useful for everyone. 🌷
+- Making data more understandable and useful for everyone. 🌷
 
 ### 🌸 Tools & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
