@@ -1,7 +1,7 @@
 <div align="center">
   
-## Hi! My Name is Dovalina Icasia 👋💖
-**Welcome to my GitHub! I’m from South Jakarta, Jakarta, Indonesia.**
+# Hi! My Name is Dovalina Icasia 👋💖
+## Welcome to my GitHub! I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
 <br/>
