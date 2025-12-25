@@ -6,7 +6,7 @@
 
 <br/>
 
-### 🌸 It’s Me!
+### 🌸 Introduce
 I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real-world problems. 
 
 ### 🎨 Current Focus
