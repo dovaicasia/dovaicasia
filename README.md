@@ -5,16 +5,17 @@
 </div>
 
 <br/>
-### ✨ It’s Me!
-I’m an Informatics Engineering at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real worlds problems. 
 
-### 🎀 Currently Focus
-- 📈: Improving Data Science & Analytics Skills.
-- 🤖: Learning more about AI and how to apply it in simple and meaningful ways.
+### ✨ It’s Me!
+I’m an Informatics Engineering **student** at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data-driven technologies work and how they can be applied to solve **real-world** problems. 
+
+### 🎀 Current Focus
+- Improving Data Science & Analytics Skills. 📈
+- Learning more about AI and how to apply it in simple and meaningful ways. 🤖
 
 ### ☁️ My Goals
-- 📊: Becoming a **Data Scientist / Data Analyst / AI Engineer.**
-- 🌷: Make data more understandable and useful for everyone.
+- Becoming a **Data Scientist / Data Analyst / AI Engineer.** 📊
+- **Making** data more understandable and useful for everyone. 🌷
 
 ### 🌸 Tools & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
