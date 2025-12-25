@@ -2,7 +2,7 @@
 
 ## Hi! I’m Dovalina Icasia 👋💖
 
-🏡 South Jakarta, Jakarta, Indonesia.
+🏡 South Jakarta, Jakarta, Indonesia. <br/>
 📊 Interest to Data Science, Data Analytics, and AI. <br/>
 🎓 Studied [Informatics Engineering](https://univpancasila.ac.id/) at the Universitas Pancasila, Indonesia. <br/>
 🌷 Making videos about Informatics Engineering, tech, and productivity on [Instagram](https://www.instagram.com/dovaicasia) <br/>
