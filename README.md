@@ -6,7 +6,7 @@
 
 <br/>
 
-### ✨ It’s Me!
+### 🌸 It’s Me!
 I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. I am passionate about **Data Science, Data Analytics, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real-world problems. 
 
 ### 🎨 Current Focus
@@ -17,7 +17,7 @@ I’m an **Informatics Engineering** Student at **Universitas Pancasila** 🎓. 
 - Becoming a **Data Scientist/Data Analyst/AI Engineer.** 📊
 - Making data more understandable and useful for everyone. 🌷
 
-### 🌸 Tools & Technologies
+### 🍀 Tools & Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
