@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello! I’m Dova 👋💖
+# Hello! I’m Dova 👋❕
 ## Welcome to my GitHub! I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
