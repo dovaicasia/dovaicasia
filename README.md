@@ -36,7 +36,7 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
-### 📊 GitHub Statistics
+### 📊 GitHub Streak
 ![](https://github-readme-stats.vercel.app/api?username=dovaicasia&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=dovaicasia&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
