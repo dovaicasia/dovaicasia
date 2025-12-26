@@ -9,7 +9,7 @@
 - 📒 Passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
-- 📊 Improving Data Science & Analytics Skills. 
+- 📊 Improving Data Science & Analyst Skills. 
 - 🤖 Learning more about AI and how to apply it in simple and meaningful ways. 
 
 ### ☁️ My Goals
