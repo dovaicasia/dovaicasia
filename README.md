@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Statistics
 [![Dovalina’s GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dovaicasia&show_icons=true&theme=radical)]
-[![Dovalina’s GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovaicasia&theme=radical)](https://git.io/streak-stats)
+[![Dovalina’s GitHub Streak](https://streak-stats.demolab.com?user=dovaicasia&theme=radical)]
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
