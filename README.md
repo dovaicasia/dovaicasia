@@ -5,7 +5,7 @@
 </div>
 
 ### 🌸 Introduce
-- 🎓 I’m Dovalina Icasia an [Informatics Engineering](https://teknik.univpancasila.ac.id/informatika/) Student at [Universitas Pancasila](https://univpancasila.ac.id).
+- 🎓 I’m Dovalina Icasia an **Informatics Engineering** Student at [Universitas Pancasila](https://univpancasila.ac.id).
 - 📒 Passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
@@ -17,10 +17,23 @@
 - 🌷 Making data more understandable and useful for everyone. 
 
 ### 🍀 Tools & Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/Js/)
+
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
+
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)](https://lookerstudio.google.com)
+[![Pentaho](https://img.shields.io/badge/Pentaho-005D8C?style=for-the-badge&logo=hitachi&logoColor=white)](https://pentaho.com/products/pentaho-data-integration/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
+
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
