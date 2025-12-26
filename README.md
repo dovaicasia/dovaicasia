@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hello, Welcome to My GitHub 👋❕
-## I’m from South Jakarta, Jakarta, Indonesia 🏡
+## 🏡 I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
 ### 🌸 Introduce
@@ -26,9 +26,9 @@
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
+[![Pentaho](https://img.shields.io/badge/Pentaho-005D8C?style=for-the-badge&logo=hitachi&logoColor=white)](https://pentaho.com/products/pentaho-data-integration/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)](https://lookerstudio.google.com)
-[![Pentaho](https://img.shields.io/badge/Pentaho-005D8C?style=for-the-badge&logo=hitachi&logoColor=white)](https://pentaho.com/products/pentaho-data-integration/)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
