@@ -37,8 +37,6 @@
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
 ### 📊 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=dovaicasia&show_icons=true&theme=rose_pine" />
-<img src="https://streak-stats.demolab.com?user=dovaicasia&theme=rose-pine" />
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
