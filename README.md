@@ -29,13 +29,12 @@
 [![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 [![Pentaho](https://img.shields.io/badge/Pentaho-005D8C?style=for-the-badge&logo=hitachi&logoColor=white)](https://pentaho.com/products/pentaho-data-integration/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)](https://lookerstudio.google.com)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
-
-
 ### 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
 
