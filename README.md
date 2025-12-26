@@ -1,11 +1,11 @@
 <div align="center">
   
 # Hello, Welcome to My GitHub 👋❕
-## 🏡 I’m from South Jakarta, Jakarta, Indonesia
+## 🏡 I am from South Jakarta, Jakarta, Indonesia
 </div>
 
 ### 🌸 Introduce
-- 🎓 I’m Dovalina Icasia an **Informatics Engineering** Student at [Universitas Pancasila](https://univpancasila.ac.id).
+- 🎓 I am Dovalina Icasia an **Informatics Engineering** Student at [Universitas Pancasila](https://univpancasila.ac.id).
 - 📒 Passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
@@ -21,6 +21,8 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/Js/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -33,7 +35,6 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
