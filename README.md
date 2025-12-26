@@ -35,8 +35,14 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
+
 ### 📊 GitHub Statistics
+<div align="center">
+
+![Dovalina’s Stats](https://github-readme-stats.vercel.app/api?username=dovaicasia&show_icons=true&theme=vision-friendly-dark)
+![Dovalina’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovaicasia&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
+</div>
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
