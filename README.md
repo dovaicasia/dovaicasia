@@ -4,17 +4,25 @@
 ## 🏡 I’m from South Jakarta, Jakarta, Indonesia
 </div>
 
+---
+
 ### 🌸 Introduce
 - 🎓 I’m Dovalina Icasia an **Informatics Engineering** Student at [Universitas Pancasila](https://univpancasila.ac.id).
 - 📒 Passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
+
+---
 
 ### 🎨 Current Focus
 - 📊 Improving Data Science & Analyst Skills. 
 - 🤖 Learning more about AI and how to apply it in simple and meaningful ways. 
 
+---
+
 ### ☁️ My Goals
 - 🥇 Become a skilled **Data Scientist/Data Analyst/AI Engineer.**
 - 🌷 Making data more understandable and useful for everyone. 
+
+---
 
 ### 🍀 Tools & Technologies
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -35,8 +43,12 @@
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://excel.cloud.microsoft/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
+---
+
 ### 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
+
+---
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
