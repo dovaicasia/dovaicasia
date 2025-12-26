@@ -37,8 +37,8 @@
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
 ### 📊 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=dovaicasia&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dovaicasia&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dovaicasia&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=dovaicasia&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 💌 Get in Touch
