@@ -37,8 +37,8 @@
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
 ### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=f8c8dc&bg_color=fff0f6)
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAMEKAMU&theme=rose-pine&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dovaicasia&show_icons=true&theme=rose_pine&icon_color=ff69b4&title_color=ff69b4&text_color=f8c8dc&bg_color=fff0f6)
+![GitHub Streak](https://streak-stats.demolab.com?user=dovaicasia&theme=rose-pine&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4)
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
