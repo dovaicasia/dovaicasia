@@ -37,8 +37,9 @@
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://workspace.google.com/intl/en_id/products/sheets/)
 
 ### 📊 GitHub Statistics
-[![Dovalina’s GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dovaicasia&show_icons=true&theme=radical)]
-[![Dovalina’s GitHub Streak](https://streak-stats.demolab.com?user=dovaicasia&theme=radical)]
+![Dovalina’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=dovaicasia&show_icons=true&theme=radical)
+![Dovalina’s GitHub Streak](https://streak-stats.demolab.com?user=dovaicasia&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=radical)
 
 ### 💌 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dovaicasia)
