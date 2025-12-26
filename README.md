@@ -42,6 +42,7 @@
 ![Dovalina’s Stats](https://github-readme-stats.vercel.app/api?username=dovaicasia&show_icons=true&theme=vision-friendly-dark)
 ![Dovalina’s Streak](https://github-readme-streak-stats.herokuapp.com/?user=dovaicasia&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovaicasia&layout=compact&theme=vision-friendly-dark)
+
 </div>
 
 ### 💌 Get in Touch
