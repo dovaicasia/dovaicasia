@@ -5,7 +5,7 @@
 </div>
 
 ### 🌸 Introduce #WomenInTech
-- 🎓 I am Dovalina Icasia an **Informatics Engineering** Student at [Universitas Pancasila](https://univpancasila.ac.id).
+- 🎓 I am Dovalina Icasia an **Informatics Engineering** graduate from [Universitas Pancasila](https://univpancasila.ac.id).
 - 📒 Passionate about **Data Science, Data Analyst, and AI**. I enjoy learning how data driven technologies work and how they can be applied to solve real world problems. 
 
 ### 🎨 Current Focus
